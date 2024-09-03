@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Bandara</h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 - 📫 How to reach me **isuruekb@gmail.com**
 
